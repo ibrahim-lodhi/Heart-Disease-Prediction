@@ -7,7 +7,7 @@ Heart disease is a leading cause of death globally, accounting for approximately
 Machine learning (ML) offers transformative potential in addressing the growing heart disease epidemic. By leveraging vast datasets, ML algorithms can uncover patterns, predict risks, and guide interventions.
 
 **Notebook Overview**
-The file appears to be a data science or machine learning project focused on cardiovascular health. It involves exploratory data analysis (EDA), data preprocessing, and potentially model training to predict or analyze cardiovascular conditions.
+The file is a machine learning project focused on cardiovascular health. It involves exploratory data analysis (EDA), data preprocessing, and potentially model training to predict or analyze cardiovascular conditions.
 
 **Markdown Documentation**
 Overview:
